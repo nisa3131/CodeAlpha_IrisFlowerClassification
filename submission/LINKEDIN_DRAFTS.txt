@@ -1,0 +1,69 @@
+DRAFTS FOR USER REVIEW — NOT POSTED
+
+Check every statement against your actual internship status. Replace the text “CodeAlpha” with an active mention of the correct organization page when composing the post. Attach your own recorded explanation video to the matching project post. No internship dates, certificate, employment or official completion status are asserted.
+
+INTERNSHIP STATUS DRAFT
+
+I am sharing my Data Science internship work with CodeAlpha. The projects cover classification, exploratory analysis and regression using Python, Pandas, Scikit-learn and Matplotlib.
+
+I have prepared projects on Iris flower classification, unemployment analysis, used-vehicle price prediction and sales prediction. I am reviewing the workflows and will share video explanations with the project repositories.
+
+[Select and tag the correct CodeAlpha organization page before posting.]
+
+#CodeAlpha #DataScience #Python #MachineLearning
+
+----------------------------------------
+TASK 1 — IRIS VIDEO POST DRAFT
+
+I am sharing my CodeAlpha Iris Flower Classification project and this video explanation.
+
+The workflow classifies three species from four flower measurements, excludes record IDs and keeps identical measurement groups together across evaluation splits. Logistic regression was selected using training-only cross-validation and achieved 100% accuracy on 30 held-out flowers. This small educational result is not a guarantee of performance on new flower populations.
+
+Code, executed notebook, charts and report:
+https://github.com/nisa3131/CodeAlpha_IrisFlowerClassification
+
+[Attach your recorded video; tag the correct CodeAlpha organization page if requested by your program.]
+
+#CodeAlpha #DataScience #Python #Classification
+
+----------------------------------------
+TASK 2 — UNEMPLOYMENT VIDEO POST DRAFT
+
+I am sharing my CodeAlpha Unemployment Analysis with Python project and this video explanation.
+
+I cleaned and visualized two supplied datasets while keeping their different observation units separate. In the same 25-state/territory panel, the unweighted mean unemployment rate rose from 9.20% in Jan–Mar 2020 to 23.20% in Apr–May. The analysis also examines participation and matched rural/urban patterns. These are descriptive associations, not causal effects or official national population-weighted estimates.
+
+Code, executed notebook, charts and report:
+https://github.com/nisa3131/CodeAlpha_UnemploymentAnalysis
+
+[Attach your recorded video; tag the correct CodeAlpha organization page if requested by your program.]
+
+#CodeAlpha #DataScience #Python #DataAnalysis
+
+----------------------------------------
+TASK 3 — CAR PRICE VIDEO POST DRAFT
+
+I am sharing my CodeAlpha Car Price Prediction project and this video explanation.
+
+The supplied dataset includes multiple vehicle types. I used grouped evaluation so held-out vehicle names were absent from training. A random forest selected by training-only cross-validation achieved test MAE 2.0562 in dataset price units and R² 0.5839, reducing MAE by 41.2% versus a median baseline. The small historical sample and unverified market details limit real-world use.
+
+Code, executed notebook, charts and report:
+https://github.com/nisa3131/CodeAlpha_CarPricePrediction
+
+[Attach your recorded video; tag the correct CodeAlpha organization page if requested by your program.]
+
+#CodeAlpha #DataScience #Python #Regression
+
+----------------------------------------
+TASK 4 — SALES VIDEO POST DRAFT
+
+I am sharing my CodeAlpha Sales Prediction project and this video explanation.
+
+The project predicts sales from TV, radio and newspaper advertising measurements. Quadratic ridge regression was selected through training-only cross-validation and achieved held-out MAE 0.485 and R² 0.988 on 40 observations. The data contain no dates, so the result is a conditional sales model rather than a validated future forecast. Advertising associations and hypothetical scenarios do not establish causal return on investment.
+
+Code, executed notebook, charts and report:
+https://github.com/nisa3131/CodeAlpha_SalesPrediction
+
+[Attach your recorded video; tag the correct CodeAlpha organization page if requested by your program.]
+
+#CodeAlpha #DataScience #Python #SalesPrediction

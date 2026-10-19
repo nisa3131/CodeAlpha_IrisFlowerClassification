@@ -1,0 +1,19 @@
+CodeAlpha Data Science — Short project descriptions
+
+Each description is a single sentence suitable for GitHub's About field (under 350 characters); the URL is listed separately.
+
+1. Iris Flower Classification
+Classifies three Iris species from flower measurements using logistic regression, group-aware evaluation, an executed Python notebook, charts and a reproducible design report.
+GitHub: https://github.com/nisa3131/CodeAlpha_IrisFlowerClassification
+
+2. Unemployment Analysis with Python
+Cleans and visualizes Indian unemployment data with Python, examining Covid-period patterns, labour participation and matched rural/urban comparisons in a reproducible descriptive analysis.
+GitHub: https://github.com/nisa3131/CodeAlpha_UnemploymentAnalysis
+
+3. Car Price Prediction
+Predicts historical used-vehicle prices with a random forest, training-fold preprocessing and evaluation on unseen vehicle-name groups, with an executed notebook, charts and design report.
+GitHub: https://github.com/nisa3131/CodeAlpha_CarPricePrediction
+
+4. Sales Prediction
+Models sales from TV, radio and newspaper advertising measurements using quadratic ridge regression, training-only model selection and held-out evaluation, with charts and a reproducible report.
+GitHub: https://github.com/nisa3131/CodeAlpha_SalesPrediction
