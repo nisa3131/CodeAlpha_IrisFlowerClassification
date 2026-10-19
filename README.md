@@ -1,6 +1,6 @@
 # CodeAlpha — Iris Flower Classification
 
-Classify three Iris species from sepal length, sepal width, petal length, and petal width. This project includes a reproducible Python pipeline, runnable notebook, audit of the supplied data, train-only model selection, and a design report with measured results.
+Classify Iris setosa, versicolor, and virginica from sepal and petal measurements using Python and Scikit-learn. Includes exploratory charts, grouped train/test evaluation, an executed notebook, and reports.
 
 ## Run
 
@@ -84,3 +84,12 @@ Tests verify feature-identical observations cannot cross held-out or CV boundari
 - [Editable DOCX report](report/report.docx)
 
 The committed notebook contains outputs from a successful full execution. The included GitHub Actions workflow reproduces the analysis on Python 3.12. View the Actions tab for the current GitHub run status.
+
+## Submission downloads
+
+- [Complete four-project submission package](https://raw.githubusercontent.com/nisa3131/CodeAlpha_IrisFlowerClassification/main/submission/CodeAlpha_DataScience_Submission.zip)
+- [Combined PDF report](https://raw.githubusercontent.com/nisa3131/CodeAlpha_IrisFlowerClassification/main/submission/CodeAlpha_DataScience_Design_Report.pdf) · [Editable Word report](https://raw.githubusercontent.com/nisa3131/CodeAlpha_IrisFlowerClassification/main/submission/CodeAlpha_DataScience_Design_Report.docx)
+- [Submission checklist](https://raw.githubusercontent.com/nisa3131/CodeAlpha_IrisFlowerClassification/main/submission/SUBMISSION_CHECKLIST.pdf) · [Video explanation scripts](https://raw.githubusercontent.com/nisa3131/CodeAlpha_IrisFlowerClassification/main/submission/VIDEO_EXPLANATION_SCRIPTS.md)
+- [Download this project as a ZIP](https://github.com/nisa3131/CodeAlpha_IrisFlowerClassification/archive/refs/heads/main.zip)
+
+The complete package includes the four projects, executed notebooks, datasets, results, charts, individual reports, the combined report, and submission guidance. The shared downloads are hosted in the Iris repository's `submission/` folder. Record/post the required explanation videos and complete the official submission form separately.
