@@ -1,0 +1,219 @@
+{
+  "seed": 42,
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scikit_learn": "1.8.0",
+    "matplotlib": "3.10.8"
+  },
+  "features": [
+    "SepalLengthCm",
+    "SepalWidthCm",
+    "PetalLengthCm",
+    "PetalWidthCm"
+  ],
+  "class_order": [
+    "Iris-setosa",
+    "Iris-versicolor",
+    "Iris-virginica"
+  ],
+  "split": {
+    "method": "First fold of StratifiedGroupKFold(n_splits=5, shuffle=True, random_state=42)",
+    "train_rows": 120,
+    "test_rows": 30,
+    "train_unique_groups": 119,
+    "test_unique_groups": 28,
+    "overlapping_groups": 0,
+    "train_class_counts": {
+      "Iris-setosa": 40,
+      "Iris-versicolor": 40,
+      "Iris-virginica": 40
+    },
+    "test_class_counts": {
+      "Iris-setosa": 10,
+      "Iris-versicolor": 10,
+      "Iris-virginica": 10
+    }
+  },
+  "cv_folds": [
+    {
+      "fold": 1,
+      "training_rows": 96,
+      "validation_rows": 24,
+      "overlapping_groups": 0
+    },
+    {
+      "fold": 2,
+      "training_rows": 96,
+      "validation_rows": 24,
+      "overlapping_groups": 0
+    },
+    {
+      "fold": 3,
+      "training_rows": 96,
+      "validation_rows": 24,
+      "overlapping_groups": 0
+    },
+    {
+      "fold": 4,
+      "training_rows": 96,
+      "validation_rows": 24,
+      "overlapping_groups": 0
+    },
+    {
+      "fold": 5,
+      "training_rows": 96,
+      "validation_rows": 24,
+      "overlapping_groups": 0
+    }
+  ],
+  "model_selection": [
+    {
+      "model": "logistic_regression",
+      "mean_cv_macro_f1": 0.9666013071895424,
+      "std_cv_macro_f1": 0.03119804408344911,
+      "mean_cv_accuracy": 0.9666666666666668,
+      "parameters": {
+        "classifier__C": 10.0
+      }
+    },
+    {
+      "model": "knn",
+      "mean_cv_macro_f1": 0.9582352941176472,
+      "std_cv_macro_f1": 0.026352435413758632,
+      "mean_cv_accuracy": 0.9583333333333334,
+      "parameters": {
+        "classifier__n_neighbors": 3
+      }
+    },
+    {
+      "model": "rbf_svm",
+      "mean_cv_macro_f1": 0.9582352941176471,
+      "std_cv_macro_f1": 0.026352435413758632,
+      "mean_cv_accuracy": 0.9583333333333334,
+      "parameters": {
+        "classifier__C": 1.0
+      }
+    },
+    {
+      "model": "dummy_most_frequent",
+      "mean_cv_macro_f1": 0.16666666666666666,
+      "std_cv_macro_f1": 0.0,
+      "mean_cv_accuracy": 0.3333333333333333,
+      "parameters": {}
+    }
+  ],
+  "selected_model": "logistic_regression",
+  "selected_parameters": {
+    "classifier__C": 10.0
+  },
+  "test": {
+    "accuracy": 1.0,
+    "macro_f1": 1.0,
+    "classification_report": {
+      "Iris-setosa": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 10.0
+      },
+      "Iris-versicolor": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 10.0
+      },
+      "Iris-virginica": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 10.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 30.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 30.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        0
+      ],
+      [
+        0,
+        10,
+        0
+      ],
+      [
+        0,
+        0,
+        10
+      ]
+    ]
+  },
+  "baseline_test": {
+    "accuracy": 0.3333333333333333,
+    "macro_f1": 0.16666666666666666,
+    "classification_report": {
+      "Iris-setosa": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1-score": 0.5,
+        "support": 10.0
+      },
+      "Iris-versicolor": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 10.0
+      },
+      "Iris-virginica": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 10.0
+      },
+      "accuracy": 0.3333333333333333,
+      "macro avg": {
+        "precision": 0.1111111111111111,
+        "recall": 0.3333333333333333,
+        "f1-score": 0.16666666666666666,
+        "support": 30.0
+      },
+      "weighted avg": {
+        "precision": 0.1111111111111111,
+        "recall": 0.3333333333333333,
+        "f1-score": 0.16666666666666666,
+        "support": 30.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        0
+      ],
+      [
+        10,
+        0,
+        0
+      ],
+      [
+        10,
+        0,
+        0
+      ]
+    ]
+  }
+}

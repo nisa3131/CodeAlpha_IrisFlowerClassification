@@ -1,0 +1,38 @@
+{
+  "source_file": "Iris.csv",
+  "sha256": "600ac44f23c2e6e0ae37daac8ceb2baba4df963efa580eb31b3b576b28e34c55",
+  "rows": 150,
+  "columns": [
+    "Id",
+    "SepalLengthCm",
+    "SepalWidthCm",
+    "PetalLengthCm",
+    "PetalWidthCm",
+    "Species"
+  ],
+  "predictors": [
+    "SepalLengthCm",
+    "SepalWidthCm",
+    "PetalLengthCm",
+    "PetalWidthCm"
+  ],
+  "excluded_identifier": "Id",
+  "missing_by_column": {
+    "Id": 0,
+    "SepalLengthCm": 0,
+    "SepalWidthCm": 0,
+    "PetalLengthCm": 0,
+    "PetalWidthCm": 0,
+    "Species": 0
+  },
+  "duplicate_complete_rows": 0,
+  "duplicate_measurement_and_label_rows": 3,
+  "duplicate_measurement_rows": 3,
+  "class_counts": {
+    "Iris-setosa": 50,
+    "Iris-versicolor": 50,
+    "Iris-virginica": 50
+  },
+  "unique_measurement_groups": 147,
+  "duplicate_policy": "Retain rows because repeated measurements can be separate flowers; keep all rows with identical four-feature measurements together in both the held-out split and every CV fold."
+}
