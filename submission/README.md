@@ -9,6 +9,7 @@ These downloads cover all four completed projects. The complete ZIP includes Pyt
 | [Editable Word report](https://raw.githubusercontent.com/nisa3131/CodeAlpha_IrisFlowerClassification/main/submission/CodeAlpha_DataScience_Design_Report.docx) | DOCX report |
 | [Submission checklist PDF](https://raw.githubusercontent.com/nisa3131/CodeAlpha_IrisFlowerClassification/main/submission/SUBMISSION_CHECKLIST.pdf) | Two-page checklist based on the supplied instructions |
 | [Editable checklist](SUBMISSION_CHECKLIST.md) | Checklist as Markdown |
+| [বাংলায় ক্লিক ধরে চারটি ভিডিওর গাইড](CLICK_BY_CLICK_VIDEO_GUIDE_BN.md) | প্রতিটি পেজের লিঙ্ক ও সেই পেজ দেখিয়ে বলার ইংরেজি কথা |
 | [Video explanation scripts](VIDEO_EXPLANATION_SCRIPTS.md) | Four prompts to review and record in your own voice |
 | [LinkedIn post drafts](LINKEDIN_DRAFTS.txt) | Drafts to review and post yourself |
 | [Short project descriptions](PROJECT_DESCRIPTIONS.txt) | Copy-ready descriptions for GitHub About fields |
