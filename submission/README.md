@@ -1,4 +1,20 @@
-# CodeAlpha Data Science — submission downloads
+# Data Science — project downloads
+
+## Personal portfolio downloads
+
+Prepared for **Nusrat Tabassum Nisa**. This is a **self-declared personal project record**; it does not certify internship completion or imply company endorsement. The email is an unsent draft.
+
+| Download | Contents |
+| --- | --- |
+| [All portfolio files in one ZIP](https://raw.githubusercontent.com/nisa3131/CodeAlpha_IrisFlowerClassification/main/submission/Nusrat_Tabassum_Nisa_Portfolio_Package.zip) | PDF, editable Word file, plain text, and an email draft |
+| [Portfolio PDF](https://raw.githubusercontent.com/nisa3131/CodeAlpha_IrisFlowerClassification/main/submission/Nusrat_Tabassum_Nisa_Data_Science_Portfolio.pdf) | One-page personal portfolio with results and clickable project links |
+| [Editable portfolio Word file](https://raw.githubusercontent.com/nisa3131/CodeAlpha_IrisFlowerClassification/main/submission/Nusrat_Tabassum_Nisa_Data_Science_Portfolio.docx) | DOCX version |
+| [Plain-text portfolio](Nusrat_Tabassum_Nisa_Data_Science_Portfolio.txt) | Copyable portfolio text |
+| [Certificate and fee clarification email draft](Certificate_and_Fee_Clarification_Email_Draft.txt) | Review before sending |
+
+If a PDF opens in your browser, use its download button or press **Ctrl+S**. For any file, open it on GitHub and choose **Download raw file** from the file toolbar.
+
+## Four-project submission downloads
 
 These downloads cover all four completed projects. The complete ZIP includes Python code, executed notebooks, supplied datasets, measured results, charts, individual PDF/Word reports, the combined report and submission guidance.
 

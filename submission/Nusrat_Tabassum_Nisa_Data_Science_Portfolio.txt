@@ -1,0 +1,33 @@
+SELF-DECLARED DATA SCIENCE PROJECT PORTFOLIO
+Nusrat Tabassum Nisa
+Prepared 21 October 2026
+Self-declared personal project record. This document does not certify internship completion or imply company endorsement.
+
+Python | pandas | NumPy | scikit-learn | Matplotlib | Data analysis | Model evaluation
+
+1. Iris Flower Classification
+150 observations; logistic regression; group-aware 120/30 train/test split.
+Held-out accuracy: 100%; macro F1: 1.0000 on 30 test observations.
+A small educational dataset and one split; no external validation.
+https://github.com/nisa3131/CodeAlpha_IrisFlowerClassification
+
+2. Unemployment Analysis with Python
+740 historical and 267 January-October 2020 observations, analyzed separately.
+Same 25 states: 9.20% (Jan-Mar), 23.20% (Apr-May), 8.90% (Aug-Oct).
+Equal-state descriptive means; not official national estimates or causal effects.
+https://github.com/nisa3131/CodeAlpha_UnemploymentAnalysis
+
+3. Used-Vehicle Price Prediction
+299 records after deduplication; random forest; vehicle-name groups kept apart.
+70-row test set: MAE 2.0562, RMSE 3.3528, R-squared 0.5839.
+Historical cars, motorcycles and scooters; currency and price units unverified.
+https://github.com/nisa3131/CodeAlpha_CarPricePrediction
+
+4. Sales Prediction
+200 advertising observations; quadratic ridge; 160/40 train/test split.
+Held-out MAE 0.485, RMSE 0.621, R-squared 0.988.
+Observational prediction; no dates, verified units or causal return-on-investment claim.
+https://github.com/nisa3131/CodeAlpha_SalesPrediction
+
+Evidence and reproducibility
+Each repository contains source code, an executed notebook, analysis outputs, dependency requirements and a written report. Results above summarize the saved project analyses.
