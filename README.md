@@ -1,4 +1,4 @@
-# CodeAlpha — Iris Flower Classification
+# Iris Flower Classification
 
 Classify Iris setosa, versicolor, and virginica from sepal and petal measurements using Python and Scikit-learn. Includes exploratory charts, grouped train/test evaluation, an executed notebook, and reports.
 
@@ -24,7 +24,7 @@ Open `analysis.ipynb` in a Jupyter-capable editor and run all cells. The noteboo
 
 ## Data and provenance
 
-The actual analysis input is the user-supplied `data/Iris.csv`. The CodeAlpha task document links to [Kaggle's Iris CSV dataset](https://www.kaggle.com/datasets/saurabh00007/iriscsv); the project does not claim to have independently downloaded or verified that source. No dataset license or independent collection provenance is asserted. Check the original source's applicable terms before further redistribution.
+The actual analysis input is the user-supplied `data/Iris.csv`. The supplied task document links to [Kaggle's Iris CSV dataset](https://www.kaggle.com/datasets/saurabh00007/iriscsv); the project does not claim to have independently downloaded or verified that source. No dataset license or independent collection provenance is asserted. Check the original source's applicable terms before further redistribution.
 
 The file has 150 observations, 50 per species, no missing values, and these fields:
 
