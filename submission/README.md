@@ -6,9 +6,9 @@ Prepared for **Nusrat Tabassum Nisa**. This is a **self-declared personal projec
 
 | Download | Contents |
 | --- | --- |
-| [All portfolio files in one ZIP](https://raw.githubusercontent.com/nisa3131/CodeAlpha_IrisFlowerClassification/main/submission/Nusrat_Tabassum_Nisa_Portfolio_Package.zip) | PDF, editable Word file, plain text, and an email draft |
-| [Portfolio PDF](https://raw.githubusercontent.com/nisa3131/CodeAlpha_IrisFlowerClassification/main/submission/Nusrat_Tabassum_Nisa_Data_Science_Portfolio.pdf) | One-page personal portfolio with results and clickable project links |
-| [Editable portfolio Word file](https://raw.githubusercontent.com/nisa3131/CodeAlpha_IrisFlowerClassification/main/submission/Nusrat_Tabassum_Nisa_Data_Science_Portfolio.docx) | DOCX version |
+| [All portfolio files in one ZIP](https://raw.githubusercontent.com/nisa3131/_IrisFlowerClassification/main/submission/Nusrat_Tabassum_Nisa_Portfolio_Package.zip) | PDF, editable Word file, plain text, and an email draft |
+| [Portfolio PDF](https://raw.githubusercontent.com/nisa3131/_IrisFlowerClassification/main/submission/Nusrat_Tabassum_Nisa_Data_Science_Portfolio.pdf) | One-page personal portfolio with results and clickable project links |
+| [Editable portfolio Word file](https://raw.githubusercontent.com/nisa3131/_IrisFlowerClassification/main/submission/Nusrat_Tabassum_Nisa_Data_Science_Portfolio.docx) | DOCX version |
 | [Plain-text portfolio](Nusrat_Tabassum_Nisa_Data_Science_Portfolio.txt) | Copyable portfolio text |
 | [Certificate and fee clarification email draft](Certificate_and_Fee_Clarification_Email_Draft.txt) | Review before sending |
 
@@ -20,10 +20,10 @@ These downloads cover all four completed projects. The complete ZIP includes Pyt
 
 | Download | Contents |
 | --- | --- |
-| [All four projects and submission files](https://raw.githubusercontent.com/nisa3131/CodeAlpha_IrisFlowerClassification/main/submission/CodeAlpha_DataScience_Submission.zip) | Complete submission package, about 12 MB |
-| [Combined PDF report](https://raw.githubusercontent.com/nisa3131/CodeAlpha_IrisFlowerClassification/main/submission/CodeAlpha_DataScience_Design_Report.pdf) | 16-page design report |
-| [Editable Word report](https://raw.githubusercontent.com/nisa3131/CodeAlpha_IrisFlowerClassification/main/submission/CodeAlpha_DataScience_Design_Report.docx) | DOCX report |
-| [Submission checklist PDF](https://raw.githubusercontent.com/nisa3131/CodeAlpha_IrisFlowerClassification/main/submission/SUBMISSION_CHECKLIST.pdf) | Two-page checklist based on the supplied instructions |
+| [All four projects and submission files](https://raw.githubusercontent.com/nisa3131/_IrisFlowerClassification/main/submission/CodeAlpha_DataScience_Submission.zip) | Complete submission package, about 12 MB |
+| [Combined PDF report](https://raw.githubusercontent.com/nisa3131/_IrisFlowerClassification/main/submission/CodeAlpha_DataScience_Design_Report.pdf) | 16-page design report |
+| [Editable Word report](https://raw.githubusercontent.com/nisa3131/_IrisFlowerClassification/main/submission/CodeAlpha_DataScience_Design_Report.docx) | DOCX report |
+| [Submission checklist PDF](https://raw.githubusercontent.com/nisa3131/_IrisFlowerClassification/main/submission/SUBMISSION_CHECKLIST.pdf) | Two-page checklist based on the supplied instructions |
 | [Editable checklist](SUBMISSION_CHECKLIST.md) | Checklist as Markdown |
 | [বাংলায় ক্লিক ধরে চারটি ভিডিওর গাইড](CLICK_BY_CLICK_VIDEO_GUIDE_BN.md) | প্রতিটি পেজের লিঙ্ক ও সেই পেজ দেখিয়ে বলার ইংরেজি কথা |
 | [Video explanation scripts](VIDEO_EXPLANATION_SCRIPTS.md) | Four prompts to review and record in your own voice |
@@ -32,7 +32,7 @@ These downloads cover all four completed projects. The complete ZIP includes Pyt
 
 ## Separate project ZIPs
 
-- [Iris Flower Classification](https://github.com/nisa3131/CodeAlpha_IrisFlowerClassification/archive/refs/heads/main.zip)
+- [Iris Flower Classification](https://github.com/nisa3131/_IrisFlowerClassification/archive/refs/heads/main.zip)
 - [Unemployment Analysis](https://github.com/nisa3131/CodeAlpha_UnemploymentAnalysis/archive/refs/heads/main.zip)
 - [Car Price Prediction](https://github.com/nisa3131/CodeAlpha_CarPricePrediction/archive/refs/heads/main.zip)
 - [Sales Prediction](https://github.com/nisa3131/CodeAlpha_SalesPrediction/archive/refs/heads/main.zip)
